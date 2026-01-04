@@ -1,0 +1,60 @@
+Place Name,City,Latitude,Longitude,Rating,Popularity,Category
+Gateway of India,Mumbai,18.9220,72.8347,4.5,85000,Historical
+Marine Drive,Mumbai,18.9445,72.8260,4.6,92000,Beach
+Lonavala,Pune,18.7525,73.4058,4.4,75000,Hills
+Khandala,Pune,18.7500,73.3833,4.3,68000,Hills
+Matheran,Mumbai,18.9843,73.2653,4.5,72000,Hills
+Taj Mahal,Agra,27.1751,78.0421,4.8,150000,Historical
+Red Fort,Delhi,28.6562,77.2410,4.6,98000,Historical
+India Gate,Delhi,28.6129,77.2295,4.7,110000,Historical
+Shimla,Shimla,31.1048,77.1734,4.5,125000,Hills
+Manali,Manali,32.2432,77.1892,4.6,135000,Hills
+Mussoorie,Mussoorie,30.4549,78.0780,4.4,95000,Hills
+Nainital,Nainital,29.3919,79.4542,4.5,105000,Hills
+Rishikesh,Rishikesh,30.0869,78.2676,4.6,115000,Hills
+Goa Beach,Goa,15.2993,74.1240,4.7,140000,Beach
+Calangute Beach,Goa,15.5439,73.7553,4.5,120000,Beach
+Baga Beach,Goa,15.5550,73.7550,4.6,118000,Beach
+Hawa Mahal,Jaipur,26.9239,75.8267,4.5,88000,Historical
+City Palace,Jaipur,26.9255,75.8236,4.6,92000,Historical
+Amber Fort,Jaipur,26.9855,75.8513,4.7,95000,Historical
+Udaipur City Palace,Udaipur,24.5760,73.6833,4.6,87000,Historical
+Lake Pichola,Udaipur,24.5713,73.6842,4.7,82000,Historical
+Mount Abu,Mount Abu,24.5925,72.7156,4.4,78000,Hills
+Jaisalmer Fort,Jaisalmer,26.9157,70.9083,4.6,85000,Historical
+Golden Temple,Amritsar,31.6200,74.8765,4.8,130000,Historical
+Wagah Border,Amritsar,31.6049,74.5760,4.4,75000,Historical
+Mysore Palace,Mysore,12.3052,76.6552,4.7,98000,Historical
+Coorg,Coorg,12.3375,75.8069,4.6,110000,Hills
+Ooty,Ooty,11.4102,76.6950,4.5,125000,Hills
+Kodaikanal,Kodaikanal,10.2381,77.4892,4.6,115000,Hills
+Munnar,Munnar,10.0889,77.0595,4.7,128000,Hills
+Alleppey Backwaters,Alleppey,9.4981,76.3388,4.6,108000,Beach
+Varkala Beach,Varkala,8.7379,76.7163,4.5,85000,Beach
+Kovalam Beach,Trivandrum,8.4004,76.9780,4.6,92000,Beach
+Marina Beach,Chennai,13.0475,80.2827,4.4,95000,Beach
+Mahabalipuram,Chennai,12.6264,80.1927,4.6,88000,Historical
+Hampi,Hampi,15.3350,76.4600,4.7,78000,Historical
+Gokarna Beach,Gokarna,14.5500,74.3167,4.5,72000,Beach
+Pondicherry Beach,Pondicherry,11.9416,79.8083,4.6,85000,Beach
+Darjeeling,Darjeeling,27.0360,88.2627,4.7,118000,Hills
+Gangtok,Gangtok,27.3389,88.6065,4.6,105000,Hills
+Kolkata Victoria Memorial,Kolkata,22.5448,88.3426,4.5,92000,Historical
+Howrah Bridge,Kolkata,22.5953,88.3470,4.4,88000,Historical
+Charminar,Hyderabad,17.3616,78.4747,4.6,95000,Historical
+Golconda Fort,Hyderabad,17.3833,78.4011,4.5,82000,Historical
+Aurangabad Caves,Aurangabad,19.9015,75.3200,4.4,68000,Historical
+Ajanta Caves,Aurangabad,20.5519,75.7033,4.7,75000,Historical
+Ellora Caves,Aurangabad,20.0264,75.1794,4.8,88000,Historical
+Khajuraho Temples,Khajuraho,24.8529,79.9194,4.7,72000,Historical
+Varanasi Ghats,Varanasi,25.3176,83.0058,4.6,110000,Historical
+Bodh Gaya,Bodh Gaya,24.6961,84.9914,4.5,85000,Historical
+Patna Museum,Patna,25.6093,85.1376,4.3,65000,Historical
+Bhubaneswar Temples,Bhubaneswar,20.2961,85.8245,4.5,78000,Historical
+Puri Beach,Puri,19.8135,85.8312,4.6,92000,Beach
+Konark Sun Temple,Konark,19.8876,86.0945,4.7,85000,Historical
+Guwahati Kamakhya,Guwahati,26.1667,91.7333,4.5,72000,Historical
+Kaziranga National Park,Kaziranga,26.5736,93.1711,4.6,88000,Historical
+Shillong,Shillong,25.5788,91.8933,4.5,95000,Hills
+Cherrapunji,Cherrapunji,25.3000,91.7000,4.4,82000,Hills
+
