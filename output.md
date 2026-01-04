@@ -1,5 +1,5 @@
 ## Output 1
-**Run: python weekend_getaway_ranker.py
+**Run: python weekend_getaway_ranker.py**
 ```bash
 ======================================================================
 Weekend Getaway Ranker for India
@@ -26,7 +26,7 @@ Total destinations found: 1
 
 
 ## Output 2
-**Run: python weekend_getaway_ranker.py
+**Run: python weekend_getaway_ranker.py**
 ```bash
 ======================================================================
 Weekend Getaway Ranker for India
@@ -55,7 +55,7 @@ Total destinations found: 3
 
 
 ## Output 3
-**Run: python weekend_getaway_ranker.py
+**Run: python weekend_getaway_ranker.py**
 ```bash
 ======================================================================
 Weekend Getaway Ranker for India
