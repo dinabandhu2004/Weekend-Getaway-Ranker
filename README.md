@@ -1,10 +1,10 @@
 ##Features:
-Distance calculation using the Haversine formula
-Normalization of all features to 0-1 scale
-Weighted ranking: 40% distance (closer = better), 40% rating, 20% popularity
-Optional filters: maximum distance and category
-Flexible input: city name or coordinates
-Top 10 destinations display with formatted output
+1.Distance calculation using the Haversine formula<br>
+2.Normalization of all features to 0-1 scale<br>
+3.Weighted ranking: 40% distance (closer = better), 40% rating, 20% popularity<br>
+4.Optional filters: maximum distance and category<br>
+5.Flexible input: city name or coordinates<br>
+6.Top 10 destinations display with formatted output<br>
 
 ##To Run:
 **Install dependencies:**
